@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\handler-provider.adoc
+// Generated at: 2025-10-19T15:34:12.952Z
